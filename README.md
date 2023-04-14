@@ -40,8 +40,9 @@ Through writing code, I'm able to answer the following questions about the bike 
 - What is the earliest birth year (when the oldest person was born), most recent birth year, and most common birth year?
 
 ## example
-ث
+
 The below screenshots show the results after requesting information in Chicago for the month of January on Sunday:
+
 ![1](https://user-images.githubusercontent.com/120107305/232156539-9cebc552-b0fc-4455-a80d-2408fb789344.png)
 ![2](https://user-images.githubusercontent.com/120107305/232156542-509bac15-9bfd-415b-9c47-d2a9f7204435.png)
 ![3](https://user-images.githubusercontent.com/120107305/232156544-c64d779a-feea-4d13-bf69-83af61860d89.png)
